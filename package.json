@@ -105,7 +105,7 @@
 		"stream-to-pull-stream": "^1.7.3",
 		"tar": "^6.1.12",
 		"vscode-dev-containers": "https://github.com/microsoft/vscode-dev-containers/releases/download/v0.245.2/vscode-dev-containers-0.245.2.tgz",
-		"vscode-uri": "^3.0.6",
+		"vscode-uri": "^3.0.7",
 		"yargs": "~17.6.2"
 	}
 }
